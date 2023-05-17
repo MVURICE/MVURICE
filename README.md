@@ -8,6 +8,10 @@ From a young age, I have been fascinated by the power of technology and its abil
 
 
 # Projects
+
+[Résumé](https://github.com/MVURICE/KEAMON035_FTC2301_GROUPB_KEABETSWEMONTSHO_ITW9.git)- A resume website with a Responsive layout that adapts to different screen sizes and devices Clear and concise presentation of the front end developer's skills, experience, and qualifications Use of modern design principles and techniques to create an aesthetically pleasing
+
+[Book-connect](https://github.com/MVURICE/KEAMON035_FTC2301_GROUPB_KEABETSWEMONTSHO_IWA19.git)- a web application displays a collection of books on a webpage and allows users to search and browse through them. The application is built using HTML, CSS, and JavaScript and makes use of various modules and functions to manipulate HTML elements on the page
   
 <!--
 **MVURICE/MVURICE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
