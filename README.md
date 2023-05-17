@@ -1,5 +1,6 @@
 ### Hi there 👋
-![github-header-image (1)](https://github.com/MVURICE/MVURICE/assets/64409721/b76c85d2-6d39-48d4-9bc0-649380775861)
+
+![github-header-image (3)](https://github.com/MVURICE/MVURICE/assets/64409721/96c2b961-01f7-4123-b82c-930311e48305)
 
 
 
